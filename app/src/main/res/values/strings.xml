@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFlixster</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
